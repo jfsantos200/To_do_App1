@@ -31,7 +31,7 @@ styles.css: Contiene los estilos CSS para la aplicación (si se usa un archivo C
 Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue estos pasos:
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia apache 2.0. Consulta el archivo LICENSE para más detalles.
 
 Contacto
 Para cualquier pregunta o sugerencia, por favor contacta a j.santoshrc@gmail.com
